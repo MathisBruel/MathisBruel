@@ -11,7 +11,7 @@ Depuis que j'ai 14 ans j'ai appris le développement en autonomie pour développ
 
 Je développe toujours des projets Minecraft, voici mes projets en cours: - MineEvent - Azion
 * 🌍  Je vie en France
-* ✉️  You can contact me at [mathis.bruel17700@gmail.com](mailto:mathis.bruel17700@gmail.com)
+* ✉️  Vous pouvez me contacter par mon mail [mathis.bruel17700@gmail.com](mailto:mathis.bruel17700@gmail.com) ou bien par mon discord: **mathis_bruel**
 * 🧠  J'apprend els laguages: Java, JS, html, CSS
 * 🤝  Je suis ouvert aux colaborations pour les projets Minecraft, Bot discord, ou tout autre choses
 
