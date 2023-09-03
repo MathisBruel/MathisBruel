@@ -1,4 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mathis Bruel====================================================================================================================================Développeur Java de passion---------------------------Je suis développeur Java depuis mon plus jeune âge. Depuis que j'ai 14 ans j'ai appris le développement en autonomie pour développeur un plugin Minecraft. Depuis, c'est une passion et également mon future métier ! Depuis j'ai appris à développer en JavaScript, Python et j'ai quelques bases en HTML, CSS, PHP, C#. Je développe toujours des projets Minecraft, voici mes projets en cours: - MineEvent - Azion* 🌍  Je vie en France* ✉️  You can contact me at [mathis.bruel17700@gmail.com](mailto:mathis.bruel17700@gmail.com)* 🧠  I'm learning Java, JS* 🤝  I'm open to collaborating on pour les projets Minecraft, Bot discord, ou tout autre choses
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appel Mathis Bruel ====================================================================================================================================
+
+Développeur Java de passion
+
+---------------------------
+
+Je suis développeur Java depuis mon plus jeune âge. 
+
+Depuis que j'ai 14 ans j'ai appris le développement en autonomie pour développeur un plugin Minecraft. Depuis, c'est une passion et également mon future métier ! Depuis j'ai appris à développer en JavaScript, Python et j'ai quelques bases en HTML, CSS, PHP, C#. 
+
+Je développe toujours des projets Minecraft, voici mes projets en cours: - MineEvent - Azion
+* 🌍  Je vie en France
+* ✉️  You can contact me at [mathis.bruel17700@gmail.com](mailto:mathis.bruel17700@gmail.com)
+* 🧠  J'apprend els laguages: Java, JS, html, CSS
+* 🤝  Je suis ouvert aux colaborations pour les projets Minecraft, Bot discord, ou tout autre choses
 
 <a href="https://www.github.com/MathisBruel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MathisBruel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/Matis_Bruel" target="_blank" rel="noreferrer"><img
