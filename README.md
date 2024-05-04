@@ -17,7 +17,7 @@ Je développe toujours des projets Minecraft, voici mes projets en cours: - Mine
 
 
 <a href="https://www.github.com/MathisBruel" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/MathisBruel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/Matis_Bruel" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/MathisBruel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  <a href="https://www.twitch.tv/Matis_Bruel" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/Matis_Bruel?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills 
