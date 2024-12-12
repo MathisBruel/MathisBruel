@@ -1,7 +1,11 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appel Mathis Bruel 
 ====================================================================================================================================
-# 💫 A propos de moi:
-<br>    🌍  Je vie en France<br>    ✉️  Vous pouvez me contacter par mon mail mathis.bruel17700@gmail.com ou bien par mon discord: mathis_bruel<br>    🧠  J'apprend les laguages: Java, JS, html, CSS<br>    🤝  Je suis ouvert aux colaborations pour les projets Minecraft, Bot discord, ou tout autre choses<br>
+## 💫 A propos de moi:
+- 🗺️ Je suis originaire de La Rochelle, actuellement en Bretagne: Etudiant en bachelor à Sup de Vinci Rennes.
+- 🖥️ Développe principalement en Java, JavaScript.
+- 📖 Apprend principalement en autodidacte depuis l'âge de mes 14 ans.
+- 💡 Je suis passionnée par le développement informatique.
+- 🎫 Vous souhaitez me contactez ? mathis.bruel17700@gmail.com ou sur discord: mathis_bruel.
 
 
 ## 🌐 Socials:
