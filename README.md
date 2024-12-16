@@ -24,9 +24,9 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ### ✍️ Citation de développeur
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-//### 🔝 Top Contributed Repo
-//![](https://github-contributor-stats.vercel.app/api?username=MathisBruel&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-//
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MathisBruel&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=MathisBruel&icon=0&color=7)](https://visitcount.itsvg.in)
 
