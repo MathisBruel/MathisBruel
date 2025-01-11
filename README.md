@@ -1,4 +1,4 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appel Mathis Bruel 
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appelle Mathis Bruel 
 ====================================================================================================================================
 ## 💫 A propos de moi:
 - 🗺️ Je suis originaire de La Rochelle, actuellement en Bretagne: Etudiant en bachelor à Sup de Vinci Rennes.
